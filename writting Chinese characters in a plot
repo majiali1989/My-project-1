@@ -1,0 +1,4 @@
+
+from matplotlib.font_manager import FontProperties
+font = FontProperties(fname=r"C:\\Windows\\Fonts\\simsun.ttc", size=25)
+plt.title(unicode(varname,'utf-8')+'(%s)'%unicode(vd.vardic[varname]['unit'],'utf-8'),fontproperties=font) #### given varname is Chinese too.
