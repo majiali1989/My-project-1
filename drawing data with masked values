@@ -1,0 +1,8 @@
+    
+     ### first of all ,a numpy masked array needs to be created, then the masked values are empty colored.
+  
+    data_all = np.ma.masked_where(np.isnan(data_all),data_all)
+    pcolormesh=ax.pcolormesh(xx,yy,data_all,cmap='coolwarm');
+    
+   
+    
