@@ -3,4 +3,4 @@ Python, an undoutedly user-friendly language, fast, convenient and most importan
 
 My way of self-learning Python starts in late 2015,  when I was about to graduate from the master program of Chinese Academy of Meteorological Science. Since then , I've been writing Python codes to meet the need from meteorological research .Although what I did is mainly for data processing and visualization with short scripts, I've also developed a software  to integrate both those functions.
 
-This repository , named "The hut of Python", is for me to store the Python codes that I've used or found helpful. They could be lazy clips or full scirpts.Hopefully, "The hut of Python" would be olf some help here.
+This repository , named "The hut of Python", is for me to store the Python codes that I've used or found helpful.
